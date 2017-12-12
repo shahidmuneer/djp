@@ -5,3 +5,4 @@ User-agent: *
 Disallow: /admin/
 Allow: /
 Sitemap: http://www.domprojects.com/sitemap.xml
+abcdefg
